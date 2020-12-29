@@ -1,6 +1,6 @@
 {
-    "name": "first_flutter_web_app",
-    "short_name": "first_flutter_web_app",
+    "name": "qx_iot",
+    "short_name": "qx_iot",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
